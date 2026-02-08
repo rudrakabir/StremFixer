@@ -48,6 +48,7 @@ sudo codesign --force --deep --sign - /Applications/Stremio.app
 
 This script requires administrator privileges to re-sign the application. You can review the source code in this repository before running.
 
-## License
 
-MIT License - Feel free to use and modify# StremFixer
+If you find this app useful, consider supporting me:  
+☕ [Buy Me a Coffee](https://www.buymeacoffee.com/rudrakabir)
+
